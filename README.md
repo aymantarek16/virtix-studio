@@ -4,12 +4,6 @@ A modern, high-performance landing page for a digital design studio, built with 
 
 ---
 
-## 🚀 Live Preview
-
-> 🔗 Coming Soon — Deploy on Vercel or Netlify
-
----
-
 ## ✨ Overview
 
 Virtix Studio is a premium digital design agency website designed to showcase creative work, services, and provide a seamless way for clients to request projects directly via WhatsApp.
