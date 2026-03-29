@@ -53,9 +53,9 @@ const portfolioItems = [
   },
   {
     id: 7,
-    image: "/Portfolio/Invitations/Ahmed_Sara.jpg",
+    image: "/Portfolio/Invitations/Ahmed_Zinab.jpg",
     category: "invitations",
-    title: "Ahmed & Sara Invitation",
+    title: "Ahmed & Zinab Invitation",
   },
   {
     id: 8,
