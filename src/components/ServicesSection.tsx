@@ -1,7 +1,6 @@
 import { motion } from "framer-motion";
 import {
   Palette,
-  Globe,
   Fingerprint,
   Megaphone,
   Sparkles,
@@ -26,13 +25,6 @@ const services = [
   },
   {
     number: "03",
-    icon: Globe,
-    title: "تطوير المواقع",
-    desc: "مواقع حديثة وسريعة ومتجاوبة، مصممة لتعرض البراند بشكل احترافي على كل الأجهزة.",
-    points: ["Landing Pages", "مواقع شركات", "أداء وتجربة استخدام"],
-  },
-  {
-    number: "04",
     icon: Megaphone,
     title: "التسويق الرقمي",
     desc: "محتوى وتسويق بصري يدعم الانتشار، ويجعل البراند أكثر حضورًا أمام الجمهور المستهدف.",

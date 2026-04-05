@@ -10,7 +10,6 @@ const categories = [
   { id: "photo-transformation", name: "تحويل الصور" },
   { id: "print-design", name: "التصميمات المطبوعة" },
   { id: "social-media", name: "السوشيال ميديا" },
-  { id: "web-design", name: "تصميم المواقع" },
 ];
 
 const portfolioItems = [
@@ -92,24 +91,6 @@ const portfolioItems = [
     image: "/Portfolio/Social Media/Koshary.jpg",
     category: "social-media",
     title: "Koshary Campaign",
-  },
-  {
-    id: 14,
-    image: "/Portfolio/Web Design/Baber shop.png",
-    category: "web-design",
-    title: "Barber Shop Website",
-  },
-  {
-    id: 15,
-    image: "/Portfolio/Web Design/Clinic ar.png",
-    category: "web-design",
-    title: "Clinic Arabic Website",
-  },
-  {
-    id: 16,
-    image: "/Portfolio/Web Design/Clinic Mocup.png",
-    category: "web-design",
-    title: "Clinic Mockup",
   },
 ];
 

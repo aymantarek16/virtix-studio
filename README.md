@@ -1,12 +1,12 @@
-# 🎨 Virtix Studio — Digital Design Agency Website
+# 🎨 Virtix Studio — Digital Design Agency
 
-A modern, high-performance landing page for a digital design studio, built with the latest frontend technologies and crafted with a strong focus on visual experience, smooth interactions, and conversion-driven structure.
+A modern, high-performance portfolio site for a digital design studio, built with the latest design technologies and crafted with a strong focus on visual experience, smooth interactions, and conversion-driven structure.
 
 ---
 
 ## ✨ Overview
 
-Virtix Studio is a premium digital design agency website designed to showcase creative work, services, and provide a seamless way for clients to request projects directly via WhatsApp.
+Virtix Studio is a premium digital design agency designed to showcase creative work, services, and provide a seamless way for clients to request projects directly via WhatsApp.
 
 The project focuses on:
 
@@ -79,7 +79,6 @@ Organized by categories:
 * Invitations
 * Social Media
 * Print Design
-* Web Design
 * Photo Transformation
 
 ---
